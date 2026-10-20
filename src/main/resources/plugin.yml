@@ -1,0 +1,9 @@
+name: Plugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  settings:
+    description: Open the settings UI.
+    usage: /settings
